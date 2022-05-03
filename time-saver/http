@@ -1,0 +1,1 @@
+curl -v -u 11ba3b1108a20d8ca6e8c49af18bdcda:api_token -X GET "https://api.track.toggl.com/reports/api/v2/summary?workspace_id=6194292&since=2022-04-01&user_agent=api_test"
